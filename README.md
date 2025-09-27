@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Vijay  
 
-<!--
-**VijayBandi-02/VijayBandi-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ECE Graduate 2025** | 📡 VLSI & Antenna Design Enthusiast  
+💡 Passionate about **Digital Design, Verilog, Python, and Antenna Simulation**  
+🌱 Currently exploring **VLSI Design Verification & Embedded Systems**  
+🤝 Open to collaborating on **VLSI and IoT projects**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Hardware Description Languages**: Verilog, VHDL  
+- **Programming**: Python (Basics). 
+- **Design Tools**: HFSS, MS Office  
+- **Domains**: VLSI Design Verification, Antenna Design, IoT.  
+
+---
+
+## 📂 Featured Projects  
+🔹 [Verilog Basics] – Logic gates, Flip-Flops, Counters  
+🔹 [Python Mini-Projects] – Small scripts & automation  
+🔹 [Two way Walkie-Talkie] – mini Project  
+🔹 [Metamaterial WBAN Antenna for SAR Reduction] – Final year Project  
+
+---
+
+## 📊 GitHub Stats  
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- LinkedIn: http://www.linkedin.com/in/vijay-bandi-07012a276  
+- Email: **bandivijay321@gmail.com**  
+
+---
+⭐️ From [Vijay](https://github.com/VijayBandi-02)
