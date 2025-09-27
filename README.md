@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayBandi-02&show_icons=true&theme=tokyonight)  
 
 ---
 
